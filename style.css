@@ -46,6 +46,10 @@ header{
   text-align: center;
 }
 
+h1 {
+  font-weight:bold;
+}
+
 main img{
   box-shadow: 0.625rem 0.625rem 0 var(--yellow);
 }
